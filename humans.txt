@@ -8,7 +8,7 @@
 
 # THANKS
 
-    <name>
+    Paul Witherman, for always supporting us and giving us the most sincere feedback, even when it was not easy.
 
 # TECHNOLOGY COLOPHON
 
