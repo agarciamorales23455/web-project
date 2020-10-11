@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 	George -- teamlead -- @Ggg564
 	Peter -- software developer -- @PeteBeat
-	Anna -- software architect -- @AnnaPavl
+	Rock -- busines dev -- @RckHubs
 
 # THANKS
 
