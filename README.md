@@ -10,6 +10,7 @@ Philipp Hackman, Doris Hallidale, Morgan Thomson, Jose Pedro Perales
 ##Deployment
 
 ##License
+Free to use, share and modify
 
 ##Copyright
 2020 Maple Brothers Inc.
